@@ -1,0 +1,6 @@
+Triangle Size:6
+Start Point:11
+End Point:15
+Canvas Length:600
+Canvas Width:600
+Padding:30
