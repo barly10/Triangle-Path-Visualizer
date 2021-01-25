@@ -1,2 +1,2 @@
 # Triangle-Path-Visualizer
-Works of Python 3.8.7
+Works on Python 3.8.7
